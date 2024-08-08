@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+Hi there, I'm Nico, a software developer specialized in backend 
+technologies, with strong skills in C# and Azure Cloud. Passionate about 
+innovative problem-solving, I have developed efficient and scalable 
+solutions. My enthusiasm for tackling challenges is complemented by my 
+ability to learn and adapt.
 <!--
 **chinocejas/chinocejas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
